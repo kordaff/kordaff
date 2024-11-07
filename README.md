@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Perl/Rust/Apache/PostgreSQL/mod_perl/video games/etc
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... on discord @Kordaff#5098
+- 📫 How to reach me ... various and sundry cf: http://linktr.ee/kordaff
 
 <!---
 kordaff/kordaff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
