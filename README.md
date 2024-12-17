@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kordaff
 - 👀 I’m interested in ... Perl/Rust/Apache/PostgreSQL/mod_perl/video games/etc
-- 🌱 I’m currently tinkering on the live version of cms3.pm on [[brb.soon.it]]
+- 🌱 I’m currently tinkering on the live version of cms3.pm on http://brb.soon.it/
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... various and sundry cf: http://linktr.ee/kordaff
 
